@@ -15,15 +15,15 @@ itemMatrix = backend.getAllItems()
 
 
 def generatePrice(rarity):
-    if(rarity == 0):
+    if(rarity == 0):  # Common: (1d6+1)*10
         return randrange(20, 75, 5)
-    elif(rarity == 1):
+    elif(rarity == 1):  # Uncommon:(1d6+1)*100
         return randrange(100, 705, 5)
-    elif(rarity == 2):
+    elif(rarity == 2):  # Rare: (2d10)*1,000
         return (randrange(1, 11) + randrange(1, 11)) * 1000
-    elif(rarity == 3):
+    elif(rarity == 3):  # Very Rare: (1d4+1)*10,000
         return randrange(20000, 50500, 500)
-    elif (rarity == 4):
+    elif (rarity == 4):  # Legendary: (2d6)*25,000
         return randrange(1, 7) * randrange(1, 7) * 25000
     else:
         return -1
@@ -53,7 +53,7 @@ def createShop(quantityGenerated):
 
 
 def main():
-    quantityGenerated = [3, 3, 2, 1, 1]
+    quantityGenerated = [5, 5, 3, 2, 1]
     createShop(quantityGenerated)
 
 
