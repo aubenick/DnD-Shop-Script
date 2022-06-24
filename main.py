@@ -53,7 +53,7 @@ def createShop(quantityGenerated):
 
 
 def main():
-    quantityGenerated = [5, 5, 3, 2, 1]
+    quantityGenerated = [5, 5, 3, 1, 0]
     createShop(quantityGenerated)
 
 
