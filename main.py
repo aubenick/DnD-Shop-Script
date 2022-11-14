@@ -33,7 +33,7 @@ def printItem(name, rarity, price):
     priceStr = ("$" + str(price))
     cols = [name, priceStr, rarity]
 
-    print("{: <40} {: <10} {: <10}".format(*cols))
+    print("{: <46} {: <10} {: <10}".format(*cols))
 
 
 def generateTier(quantity, rarity):
@@ -53,7 +53,7 @@ def createShop(quantityGenerated):
 
 
 def main():
-    quantityGenerated = [5, 5, 3, 1, 0]
+    quantityGenerated = [3, 8, 5, 1, 0]
     createShop(quantityGenerated)
 
 
