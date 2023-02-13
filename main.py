@@ -3,7 +3,7 @@ from enum import Enum
 from item import Item
 import backend
 
-
+# Rarity strings for ease of use adding items to JSON
 common = "common"
 uncommon = "uncommon"
 rare = "rare"
@@ -26,11 +26,15 @@ def generateTier(quantity, rarity):
         price = generatePrice(rarity)
         printItem(items.pop(), Rarities(rarity).name, price)
 
+# Display all items in the JSON file
+
 
 def listItems():
     items = backend.getItems()
     for item in items:
         print(item.toString())
+
+# Adds new item to JSON, and sorts the list
 
 
 def addNewItem(name, rarity, source="GS"):
