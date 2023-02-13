@@ -6,7 +6,7 @@ class Item(object):
 
     price = None
 
-    # Constructor using Kwargs or A dictionary
+    # Constructor that uses Kwargs or dictionary to initialize
     def __init__(self, *initial_data, **kwargs):
         for dictionary in initial_data:
             for key in dictionary:
@@ -14,6 +14,7 @@ class Item(object):
         for key in kwargs:
             setattr(self, key, kwargs[key])
 
+    # Sets price of item randomly based on rarity
     def setPrice(self):
         if(self.rarity == "common"):  # Common: (1d6+1)*10
             self.price = randrange(20, 75, 5)
@@ -28,8 +29,10 @@ class Item(object):
         else:
             return -1
 
+    # Print item as string format
     def toString(self):
         return 'Name: {}\n\tSource: {}\n\tRarity: {}\n\tPrice: {}'.format(self.name, self.source, self.rarity, self.price)
 
+    # Prints item in JSON export format, doesn't include price as that should be instanced individually
     def toJson(self):
         return {"name": self.name, "source": self.source, "rarity": self.rarity}
