@@ -1,0 +1,4447 @@
+[
+    {
+        "name": "Abracadabrus",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Absorbing Tattoo",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Acheron Blade",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Adamantine Armor",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Aged Goodberry Wine",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Alchemical Compendium",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Alchemist's Potion Belt",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Alchemy Jug",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Alchemy Jug (Blue)",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Alchemy Jug (Orange)",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "All-Purpose Tool",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "All-Purpose Tool",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "All-Purpose Tool",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Ambitious Medic's Box",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Amethyst Lodestone",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Ammunition, +1",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Ammunition, +2",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Ammunition, +3",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Amulet of Health",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Amulet of Proof Against Detection and Location",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Amulet of Protection from Turning",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Amulet of the Black Skull",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Amulet of the Devout",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Amulet of the Devout",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Amulet of the Devout",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Amulet of the Drunkard",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Amulet of the Planes",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Animated Shield",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Apparatus of Kwalish",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Arcane Cannon",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Arcane Grimoire",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Arcane Grimoire",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Arcane Grimoire",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Arcane Propulsion Arm",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Arcanist Gauntlets",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Archivist's Key",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Armblade",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Armor of Gleaming",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Armor of Invulnerability",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Armor of Resistance",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Armor of Vulnerability",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Armor, +2",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Armor, +3",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Armor, +3",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Arrow of Slaying",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Arrow-Catching Shield",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Astral Caltrops",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Astral Shard",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Astromancy Archive",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Atlas of Endless Horizons",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Azuredge",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Badge of the Savant",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Badge of the Watch",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Bag of Beans",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Bag of Devouring",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Bag of Holding",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Bag of Tricks",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Balance of Harmony",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Balloon Pack",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Bandolier of the Elements",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Banner of the Krig Rune",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Barrier Tattoo",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Barrier Tattoo",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Barrier Tattoo",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Bartender's Armistice",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Battering Shield",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Battle Standard of Infernal Power",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Bead of Force",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Bead of Nourishment",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Bead of Refreshment",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Belashyrra's Beholder Crown",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Bell Branch",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Belt of Dwarvenkind",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Belt of Giant Strength",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Belt of Giant Strength",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Belt of Giant Strength",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Berserker Axe",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Bird of a Feather",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Blackrazor",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Blackstaff",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Blackthorn Spear of the Moonless Hunter",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Blade of the Medusa",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Blazeball Bat",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Blod Stone",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Blood Fury Tattoo",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Blood Spear",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Blood of the Lycanthrope Antidote",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Bloodaxe",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Bloodwell Vial",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Bloodwell Vial",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Bloodwell Vial",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Blue Dragon Horn Shield",
+        "source": "GS",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Bobbing Lily Pad",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Bolide Blade",
+        "source": "GS",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Bonecounter",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Bookmark",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Boots of Elvenkind",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Boots of False Tracks",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Boots of Levitation",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Boots of Speed",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Boots of Striding and Springing",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Boots of the Winterlands",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Bottle of Boundless Coffee",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Bottled Breath",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Bounder's Ball",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Bow of Mind Thievery",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Bow of the Eldritch Archer",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Bow of the Spelldrinker",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Bow of the Twilight Valkyrie",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Bowl of Commanding Water Elementals",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Bracelet of Rock Magic",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Bracelet of the Shattered Aegis",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Bracer of Flying Daggers",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Bracers of Defense",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Brazier of Commanding Fire Elementals",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Breathing Bubble",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Bridle of Capturing",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Brooch of Living Essence",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Brooch of Shielding",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Broom of Flying",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Butcher's Bib",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Cactus Mace",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Camper's Respite",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Candle of Invocation",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Candle of the Deep",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "CandleFlame Claymore",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Candleflame Bow",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Cap of Water Breathing",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Cape of the Mountebank",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Captain's Pride",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Carpet of Flying",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Carrion Shroud",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Cast-Off Armor",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Cathedral Armor [Solarian] ",
+        "source": "S)",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Cauldron of Plenty",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Cauldron of Rebirth",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Censer of Controlling Air Elementals",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Chain Devil Gloves",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Champion's Greatbow",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Charlatan's Die",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Charm of Plant Command",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Chime of Opening",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Chromacloth",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Chromatic Rose",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Chronolometer",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Chronomancer's Eyepiece",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Cinnabar Rapier",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Circlet of Blasting",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Claw of the Wyrm Rune",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Claws of the Umber Hulk",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Cleaning Cube",
+        "source": "GS",
+        "rarity": "common"
+    },
+    {
+        "name": "Cleansing Stone",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Cloak of Arachnida",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Cloak of Billowing",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Cloak of Daggers",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Cloak of Displacement",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Cloak of Elvenkind",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Cloak of Invisibility",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Cloak of Many Fashions",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Cloak of Protection",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Cloak of the Bat",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Cloak of the Djinni",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Cloak of the Manta Ray",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Clockwork Amulet",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Clockwork Spider",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Clothes of Mending",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Coiling Grasp Tattoo",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Coin of Delving",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Coldfire Anvil",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Coldsnap",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Comet Ballista",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Companion's Band",
+        "source": "GS",
+        "rarity": "common"
+    },
+    {
+        "name": "Conch of Teleportation",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Conspirator's Coat",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Contingency Band",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Corpse Slayer",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Cottage Chest",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Cracked Driftglobe",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Crash and Burn",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Crashing Tide Hammer",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Crypt Keeper Glaive",
+        "source": "GS",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Crystal Ball",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Crystal Ball",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Crystal Blade",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Crystalline Chronicle",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Cube of Force",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Cube of Teleportation",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Cubic Gate",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Cuddly Strixhaven Mascot",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Cursed Luckstone",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Daern's Instant Fortress",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Dagger of Venom",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Dagger of the Ogre Mage",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Dancing Sword",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Danoth's Visor",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Dark Shard Amulet",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Dawnbringer",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Death's Shadow",
+        "source": "GS",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Decanter of Endless Water",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Deck of Dragons",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Deck of Illusions",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Deck of Many Things",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Deck of Several Things",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Defender",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Demon Armor",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Devastation Orb",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Devotee's Censer",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Dimensional Loop",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Dimensional Quiver",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Dimensional Shackles",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Direstone Runic Wand",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Dispelling Stone",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Displacement Leathers",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Diviner's Dice",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Docent",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Dragon Edge Weapons",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Dragon Edge Weapons",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Dragon Edge Weapons",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Dragon Mask",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Dragon Scale Mail",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Dragon Slayer",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Dragon Vessel",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Dragon Vessel",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Dragon Vessel",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Dragon Vessel",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Dragon Wing Bow",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Dragon's Wrath Weapon",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Dragon's Wrath Weapon",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Dragon's Wrath Weapon",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Dragon's Wrath Weapon",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Dragon-Touched Focus",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Dragon-Touched Focus",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Dragon-Touched Focus",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Dragon-Touched Focus",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Dragonbreath Ammunition",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Dragonhide Belt",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Dragonhide Belt",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Dragonhide Belt",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Dragonlance",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Dragonscale Whetstone",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Dragonscale Whetstone",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Dragonscale Whetstone",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Dragonscale Whetstone",
+        "source": "GS",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Dragonstaff of Ahghairon",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Dragontooth Dagger",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Dread Helm",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Dream Saber",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Dress of Many Pockets",
+        "source": "GS",
+        "rarity": "common"
+    },
+    {
+        "name": "Driftglobe",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Drown",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Duplicitous Manuscript",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Duskcrusher",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Dust of Corrosion",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Dust of Deliciousness",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Dust of Disappearance",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Dust of Dryness",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Dust of Sneezing and Choking",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Dwarven Boozehound's Backpack",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Dwarven Plate",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Dwarven Thrower",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Dyrrn's Tentacle Whip",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Eagle Whistle",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Ear Horn of Hearing",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Earworm",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Efreeti Bottle",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Efreeti Chain",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Eldritch Claw Tattoo",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Eldritch Staff",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Elemental Essence Shard",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Elemental Gem",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Elixir of Health",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Elven Chain",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Emerald Pen",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Enduring Spellbook",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Ersatz Eye",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Everbright Lantern",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Eversmoking Bottle",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Executioner's Mercy",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Eye of the Bookwurm",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Eyes of Charming",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Eyes of Minute Seeing",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Eyes of the Eagle",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Fane-Eater",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Far Gear",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Far Realm Shard",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Feather Token",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Feather of Diatryma Summoning",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Feywild Shard",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Field Healer's Pauldron",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Figurine of Wondrous Power",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Figurine of Wondrous Power",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Figurine of Wondrous Power",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Finder's Goggles",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Flail of Tiamat",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Flame Tongue",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Flying Chariot",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Foldable Pet",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Folding Boat",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Forecaster's Cloak",
+        "source": "GS",
+        "rarity": "common"
+    },
+    {
+        "name": "Forgework Dragon Shield",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Fourarm Bracers",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Foxfire Charm",
+        "source": "GS",
+        "rarity": "common"
+    },
+    {
+        "name": "Freerunner's Armor",
+        "source": "GS",
+        "rarity": "common"
+    },
+    {
+        "name": "Frost Brand",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Frostbitten Buckler",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Frostburn Blade",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Frostfell Cloak",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Fulminating Treatise",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Galder's Bubble Pipe",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Gambler's Blade",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Gateway Ring",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Gauntlets of Eldritch Ferocity",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Gauntlets of Flaming Fury",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Gauntlets of Ogre Power",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Gauntlets of the Divine Feud",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Gavel of the Venn Rune",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Gelatinous Whip",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Gem of Brightness",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Gem of Seeing",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Ghost Lantern",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Ghost Step Tattoo",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Ghostbow Bracer",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Gi of Shifting Seasons",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Giant Slayer",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Glaive of the Forest Guardian",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Glaive of the Revenant King",
+        "source": "GS",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Glamerweave",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Glamerweave",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Glamoured Studded Leather",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Gloves of Healing",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Gloves of Missile Snaring",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Gloves of Soul Catching",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Gloves of Swimming and Climbing",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Gloves of Thievery",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Godsteel Barrier",
+        "source": "GS",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Godsteel Wargauntlets",
+        "source": "GS",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Goggles of Night",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Goggles of Object Reading",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Great Owl's Shroud",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Griffon Coinpouch",
+        "source": "GS",
+        "rarity": "common"
+    },
+    {
+        "name": "Griffon Component Pack",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Grimoire Infinitus",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Guardian Emblem",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Guild Keyrune",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Guild Keyrune",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Guild Keyrune",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Guild Signet",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Gulthias Staff",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Gurt's Greataxe",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "H'rethi Cloak of Shielding",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Hammer of Thunderbolts",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Hammer of Willpower",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Harkon's Bite",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Hat of Disguise",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Hat of Vermin",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Hat of Wizardry",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Hazirawn",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Headband of Intellect",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Heart Weaver's Primer",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Heart of the Sleeveless",
+        "source": "GS",
+        "rarity": "common"
+    },
+    {
+        "name": "Heavenly Chalice",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Hell Hound Cloak",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Hellfire Weapon",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Helm of Brilliance",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Helm of Comprehending Languages",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Helm of Devil Command",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Helm of Telepathy",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Helm of Teleportation",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Helm of Underwater Action",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Helm of the Gods",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Helm of the Platinum Dragon",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Heward's Handy Haversack",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Heward's Handy Spice Pouch",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Heward's Hireling Armor",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Hide of the Feral Guardian",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Hide of the Wild Guardian",
+        "source": "GS",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Holy Avenger",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Holy Symbol of Ravenkind",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Hook of Fisher's Delight",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Horn of Blasting",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Horn of Silent Alarm",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Horn of Valhalla",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Horn of Valhalla",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Horn of Valhalla",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Horn of the Wild Hunt",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Horseshoes of Speed",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Horseshoes of a Zephyr",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Hour and Minute",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Hunter's Coat",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Hurricane Lance",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Icon of Ravenloft",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Illuminator's Tattoo",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Illusionist's Bracers",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Imbued Wood Focus",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Immovable Rod",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Incredible Mending Tape",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Infernal Puzzle Box",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Infernal Tack",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Infiltrator's Key",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Ingot of the Skold Rune",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Insatiable Tome",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Insignia of Claws",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Instrument of Illusions",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Instrument of Scribing",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Instrument of the Bards",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Instrument of the Bards",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Instrument of the Bards",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Instrument of the Bards",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Ioun Stone",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Ioun Stone",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Ioun Stone",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Iron Bands of Bilarro",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Iron Flask",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Ironfang",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Ironleaf Impaler",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Javelin of Lightning",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Keoghtom's Ointment",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Key Coin",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Keycharm",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Ki Blade",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Kinetic Bowstring",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Knave's Eye Patch",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Korolnor Scepter",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Kraken's Whip",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Kyrzin's Ooze",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Lantern of Revealing",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Lantern of Tracking",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Lantern of the Frost Watch",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Last Stand Armor",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Leather Golem Armor",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Leatherbeard",
+        "source": "GS",
+        "rarity": "common"
+    },
+    {
+        "name": "Libram of Souls and Flesh",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Life's Flower Restorative",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Lifewell Tattoo",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Living Armor",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Living Gloves",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Loadstone",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Lock of Trickery",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Lord's Ensemble",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Lorehold Primer",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Lost Crown of Besilmer",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Love's Embrace",
+        "source": "GS",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Luck Blade",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Luna Moth Cape",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Luxon Beacon",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Lyre of Building",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Mace of Disruption",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Mace of Smiting",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Mace of Terror",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Magic Pocket",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Magma War Pick",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Mantle of Spell Resistance",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Manual of Bodily Health",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Manual of Gainful Exercise",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Manual of Golems",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Manual of Quickness of Action",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Mariner's Armor",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Mark of the Everglacier Monarch",
+        "source": "GS",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Mask of the Beast",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Masque Charm",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Masquerade Tattoo",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Matalotok",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Maul of the Guiding Star",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Medallion of Thoughts",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Merry Berry",
+        "source": "GS",
+        "rarity": "common"
+    },
+    {
+        "name": "Mimicloak",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Mind Blade",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Mind Carapace Armor",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Mind Lash",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Mirror of Life Trapping",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Mirror of the Past",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Mistwalker Armor",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Mithral Armor",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Mizzium Apparatus",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Mizzium Armor",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Mizzium Mortar",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Mobius Scroll",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Molten Bronze Skin",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Moodmark Paint",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Moon Sickle",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Moon Sickle",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Moon Sickle",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Moon-Touched Sword",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Moonblade",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Mourningsteel Demi-Gauntlets",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Mourningsteel Ghost Candle",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Mourningsteel Half Plate",
+        "source": "GS",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Mourningstell Sword",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Mummy Rot Antidote",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Murgaxor's Orb",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Mystery Key",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Naga's Caduceus of Rebirth",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Nature's Mantle",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Navigation Orb",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Necklace of Adaptation",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Necklace of Fireballs",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Necklace of Prayer Beads",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Needle of Mending",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Nepenthe",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Nether Scroll of Azumar",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Night Caller",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Night Owl's Half-Moon Spectacles",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Nightfall Pearl",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Nine Lives Stealer",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Nolzur's Marvelous Pigments",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Oathbow",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Obsidian Flint Dragon Plate",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Oil of Etherealness",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Oil of Sharpness",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Oil of Slipperiness",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Opal of the Ild Rune",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Orange Cicatrizer's Debt",
+        "source": "GS",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Orb of Direction",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Orb of Shielding",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Orb of Time",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Orb of the Stein Rune",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Orb of the Veil",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Orcsplitter",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Ornithopter of Flying",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Ouroboros Ring",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Outer Essence Shard",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Paper Bird",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Pariah's Shield",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Pearl of Power",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Pennant of the Vind Rune",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Peregrine Mask",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Peregrine Spear",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Perfume of Bewitching",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Periapt of Health",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Periapt of Proof against Poison",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Periapt of Wound Closure",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Phasing Bow",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Philter of Love",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Pick and Pocket",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Pipe of Remembrance",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Pipe of Smoke Monsters",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Pipes of Haunting",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Pipes of the Sewers",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Piwafwi",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Piwafwi of Fire Resistance",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Pixie Dust",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Planecaller's Codex",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Plate Armor of Etherealness",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Platinum Scarf",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Pole of Angling",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Pole of Collapsing",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Polymorph Blade",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Portable Hole",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Pot of Awakening",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Potion of Advantage",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Potion of Animal Friendship",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Potion of Aqueous Form",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Potion of Clairvoyance",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Potion of Climbing",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Potion of Diminution",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Potion of Dragon's Majesty",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Potion of Fire Breath",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Potion of Flying",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Potion of Gaseous Form",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Potion of Giant Size",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Potion of Giant Strength",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Potion of Giant Strength",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Potion of Giant Strength",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Potion of Growth",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Potion of Healing",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Potion of Healing",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Potion of Healing",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Potion of Heroism",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Potion of Invisibility",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Potion of Invulnerability",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Potion of Longevity",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Potion of Maximum Power",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Potion of Mind Control",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Potion of Mind Control",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Potion of Mind Reading",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Potion of Poison",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Potion of Possibility",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Potion of Resistance",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Potion of Speed",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Potion of Vitality",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Potion of Water Breathing",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Powered Armor",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Pressure Capsule",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Prismari Primer",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Prized Pet Protector",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Prized Pet Protector",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Professor Orb",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Prosthetic Limb",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Protective Verses",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Prototype Thunderberd",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Psi Crystal",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Pyroconverger",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Pyxis of Pandemonium",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Quaal's Feather Token",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Quandrix Primer",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Quick Change Ring",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Quiver of Ehlonna",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Quiver of Elemental Chaos",
+        "source": "GS",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Quiver of Seasons",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Rakdos Riteknife",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Ravenheart's Origami Ravens",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Realmswarden Greataxe",
+        "source": "GS",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Reap and Sew",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Reincarnation Dust",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Reveler's Concertina",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Rhythm Maker's Drum",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Rhythm Maker's Drum",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Rhythm Maker's Drum",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Rift Sheath",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Ring Of X-Ray Vision",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Ring of Animal Influence",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Ring of Djinni Summoning",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Ring of Eight Eyes",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Ring of Elemental Command",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Ring of Evasion",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Ring of Feather Falling",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Ring of Free Action",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Ring of Healer's Heroism",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Ring of Invisibility",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Ring of Jumping",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Ring of Lunar Might",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Ring of Mind Shielding",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Ring of Names",
+        "source": "GS",
+        "rarity": "common"
+    },
+    {
+        "name": "Ring of Obscuring",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Ring of Protection",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Ring of Regeneration",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Ring of Resistance",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Ring of Shooting Stars",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Ring of Spell Storing",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Ring of Spell Turning",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Ring of Swimming",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Ring of Telekinesis",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Ring of Temporal Salvation",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Ring of Three Wishes",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Ring of Truth Telling",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Ring of Volleys",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Ring of Warmth",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Ring of Water Walking",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Ring of the Ram",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Ring of the Soul Harvest",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Ring of the Split Mind",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Riptide Katana",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Robe of Eyes",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Robe of Scintillating Colors",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Robe of Serpents",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Robe of Stars",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Robe of Summer",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Robe of Useful Items",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Robe of the Archmagi",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Rod of Absorption",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Rod of Alertness",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Rod of Lordly Might",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Rod of Resurrection",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Rod of Retribution",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Rod of Rulership",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Rod of Security",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Rod of the Pact Keeper, +1",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Rod of the Pact Keeper, +1, +2, +3",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Rod of the Pact Keeper, +1, +2, +3",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Rod of the Vonindod",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Rope Caster",
+        "source": "GS",
+        "rarity": "common"
+    },
+    {
+        "name": "Rope of Climbing",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Rope of Entanglement",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Rope of Mending",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Rotor of Return",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Ruby Weave Gem",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Ruby of the War Mage",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Ruinblade",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Saddle of the Cavalier",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Saint Markovia's Thighbone",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Salamander Flame Gauntlets",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Sandstorm Dancer",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Sapphire Buckler",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Sash of Sorcerous Synergy",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Scaled Ornament",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Scaled Ornament",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Scaled Ornament",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Scaled Ornament",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Scarab of Protection",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Scarlet Scourge",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Scimitar of Speed",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Scissors of Shadow Snipping",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Scorpion Armor",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Screaming Longbow",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Scribe's Pen",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Scroll of Mapping",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Scroll of Mapping",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Scroll of Protection",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Scroll of Tarrasque Summoning",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Scroll of the Comet",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Seeker Dart",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Seer's Starlight Cloak",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Sekolahian Worshipping Statuette",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Sending Stones",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Sentinel Shield",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Serpent Scale Armor",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Serpent's Fang",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Shadowfell Brand Tattoo",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Shadowfell Shard",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Shard of the Ise Rune",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Shatterspike",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Shield of Expression",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Shield of Far Sight",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Shield of Missile Attraction",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Shield of the Hidden Lord",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Shield, +1",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Shield, +1, +2, +3",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Shield, +2",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Shiftweave",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Silverquill Primer",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Singing Stein",
+        "source": "GS",
+        "rarity": "common"
+    },
+    {
+        "name": "Siren Song Lyre",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Skirmisher's Longbow",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Skyblinder Staff",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Skyglider Shield",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Sling Bullets of Althemone",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Slippers of Spider Climbing",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Smash Potatoes",
+        "source": "GS",
+        "rarity": "common"
+    },
+    {
+        "name": "Smokepowder",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Smoldering Armor",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Snicker-Snack",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Soul Coin",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Sovereign Glue",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Speaking Stone",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Spear of Backbiting",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Spell Bottle",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Spell Gem",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Spell Gem",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Spell Gem",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Spell Gem",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Spell Scroll",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Spell Scroll",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Spell Scroll",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Spell Scroll",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Spellfire Bow",
+        "source": "GS",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Spellguard Shield",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Spellshard",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Spellsword",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Spellwriter's Brace",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Spellwrought Tattoo",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Spellwrought Tattoo",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Spellwrought Tattoo",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Sphere Of Annihilation",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Spiderbite Daggers",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Spies' Murmur",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Spiker and Striker",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Spirit Cleaver",
+        "source": "GS",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Squasher",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Staff of Adornment",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Staff of Birdcalls",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Staff of Charming",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Staff of Defense",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Staff of Dunamancy",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Staff of Fate",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Staff of Fire",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Staff of Flowers",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Staff of Frost",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Staff of Healing",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Staff of Power",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Staff of Striking",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Staff of Swarming Insects",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Staff of Thunder and Lightning",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Staff of Withering",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Staff of the Adder",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Staff of the Ivory Claw",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Staff of the Magi",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Staff of the Python",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Staff of the Woodlands",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Stalagmight Geode",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Starmetal Constellation Scepter",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Starmetal Flail",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Starmetal Shard Spear",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Starmetal Sliver",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Steel",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Stone of Controlling Earth Elementals",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Stone of Good Luck (Luckstone)",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Stone of Ill Luck",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Stonespeaker Crystal",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Storm Boomerang",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Storm Thrower Harpoon",
+        "source": "GS",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Stormgirdle",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Strixhaven Pennant",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Stuffy Familiar",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Sun Blade",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Sunforger",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Sunsword",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Sword of Answering",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Sword of Life Stealing",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Sword of Sharpness",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Sword of Vengeance",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Sword of Wounding",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Sword of the Paruns",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Talisman of Pure Good",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Talisman of Ultimate Evil",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Talisman of the Sphere",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Talking Doll",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Tankard of Sobriety",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Tea Weird",
+        "source": "GS",
+        "rarity": "common"
+    },
+    {
+        "name": "Tentacle Rod",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Thalamus Thread",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Thermal Cube",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Thessaltoxin Antidote",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Thunderous Flail",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Timepiece of Travel",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Timepiercer",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Tinderstrike",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Tome of Advanced Fighting Styles",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Tome of Clear Thought",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Tome of Leadership and Influence",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Tome of Lost Knowledge",
+        "source": "GS",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Tome of Planar Wonderings and Wanderings",
+        "source": "GS",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Tome of Understanding",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Tome of the Dragon's Hoard",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Tome of the Stilled Tongue",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Topaz Annihilator",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Trident of Fish Command",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Tub of Churning and Fermentation",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Turtle Pack",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Two-Birds Sling",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Unbreakable Arrow",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Universal Solvent",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Vagrant's Wrist Stiletto",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Venombane Armor",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Ventilating Lungs",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Verminshroud",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Veteran's Cane",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Vial Ring",
+        "source": "GS",
+        "rarity": "common"
+    },
+    {
+        "name": "Vicious Weapon",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Viper's Katana (Longsword)",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Vorpal Sword",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Vox Seeker",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Voyager Staff",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Walloping Ammunition",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Wand Sheath",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Wand of Binding",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Wand of Conducting",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Wand of Enemy Detection",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Wand of Entangle",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Wand of Fear",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Wand of Fireballs",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Wand of Lightning Bolts",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Wand of Magic Detection",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Wand of Magic Missiles",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Wand of Paralysis",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Wand of Polymorph",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Wand of Pyrotechnics",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Wand of Scowls",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Wand of Secrets",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Wand of Smiles",
+        "source": "5e",
+        "rarity": "common"
+    },
+    {
+        "name": "Wand of Viscid Globs",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Wand of Web",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Wand of Winter",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Wand of Wonder",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Wand of the War Mage",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Wand of the War Mage",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Wand of the War Mage",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Wardancer's Spear",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Watchful Helm",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Wave",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Waythe",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Weapon of Certain Death",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Weapon of Warning",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Weapon, +1",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Weaving Wasp Needles",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Webgrip Rucksack",
+        "source": "GS",
+        "rarity": "common"
+    },
+    {
+        "name": "Weird Tank",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Well of Many Worlds",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Wheel of Stars",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Wheel of Wind and Water",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Whelm",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Wild Dice",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Wind Fan",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Wind-Up Merchant",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Windswept Wyvernplate",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Windvane",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Winged Boots",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Wings of Flying",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Wingwear",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Witchlight Vane",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Witchlight Watch",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Witherbloom Primer",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Woodcutter's Axe",
+        "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Wraith's Cicrlet",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Wraith's Garb",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Wraith's Ring",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Wreath of the Prism",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Wyrmling Wristlet",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Wyvernblade",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
+        "name": "Ythryn Mythallar",
+        "source": "5e",
+        "rarity": "legendary"
+    }
+]
