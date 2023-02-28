@@ -59,8 +59,7 @@ def main():
     # quantityGenerated = [3, 8, 5, 1, 0]
     # createShop(quantityGenerated)
 
-    addNewItem("Prized Pet Protector", uncommon)
-    addNewItem("Prized Pet Protector", rare)
+    addNewItem("Hedgewitch's Gardening Gloves", uncommon)
 
 
 if __name__ == "__main__":
