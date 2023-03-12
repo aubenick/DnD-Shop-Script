@@ -1250,6 +1250,11 @@
         "rarity": "legendary"
     },
     {
+        "name": "Dune Duster",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
         "name": "Duplicitous Manuscript",
         "source": "5e",
         "rarity": "rare"

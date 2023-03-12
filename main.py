@@ -10,13 +10,6 @@ veryrare = "veryrare"
 legendary = "legendary"
 
 
-def printItem(name, rarity, price):
-    priceStr = ("$" + str(price))
-    cols = [name, priceStr, rarity]
-
-    print("{: <46} {: <10} {: <10}".format(*cols))
-
-
 def listItems():
     # Function: Display all items in the JSON file
     items = backend.getItems()
@@ -37,17 +30,23 @@ def addNewItem(name, rarity, source="GS"):
 
 
 def createShop(quantityGenerated):
-    print("createShop", quantityGenerated, "\n")
-    # shopItems = backend.getItemsWithPrices(quantityGenerated)
+    print("Generating Shop.")
+    print("{: <46} {: <10} {: <10} {: <4}".format(
+        *["Item Name", "Price (GP)", "Rarity", "Source"]) + '\n')
+    shopItems = backend.getItemsWithPrices(quantityGenerated)
     # printShop(shopItems)
+    for item in shopItems:
+        item.printItem()
     print()
 
 
 def main():
-    # quantityGenerated = [3, 8, 5, 1, 0]
-    # createShop(quantityGenerated)
 
-    addNewItem("Hedgewitch's Gardening Gloves", uncommon)
+    quantityGenerated = [2, 5, 3, 2, 1]
+    createShop(quantityGenerated)
+
+    # print("Adding New Item")
+    # addNewItem("Dune Duster", veryrare)
 
 
 if __name__ == "__main__":

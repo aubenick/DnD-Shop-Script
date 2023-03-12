@@ -1,5 +1,4 @@
 from random import randrange
-import json
 
 
 class Item(object):
@@ -16,13 +15,13 @@ class Item(object):
 
     # Sets price of item randomly based on rarity
     def setPrice(self):
-        if(self.rarity == "common"):  # Common: (1d6+1)*10
+        if (self.rarity == "common"):  # Common: (1d6+1)*10
             self.price = randrange(20, 75, 5)
-        elif(self.rarity == "uncommon"):  # Uncommon:(1d6+1)*100
+        elif (self.rarity == "uncommon"):  # Uncommon:(1d6+1)*100
             self.price = randrange(100, 705, 5)
-        elif(self.rarity == "rare"):  # Rare: (2d10)*1,000
+        elif (self.rarity == "rare"):  # Rare: (2d10)*1,000
             self.price = (randrange(1, 11) + randrange(1, 11)) * 1000
-        elif(self.rarity == "veryrare"):  # Very Rare: (1d4+1)*10,000
+        elif (self.rarity == "veryrare"):  # Very Rare: (1d4+1)*10,000
             self.price = randrange(20000, 50500, 500)
         elif (self.rarity == "legendary"):  # Legendary: (2d6)*25,000
             self.price = randrange(1, 7) * randrange(1, 7) * 25000
@@ -36,3 +35,9 @@ class Item(object):
     # Prints item in JSON export format, doesn't include price as that should be instanced individually
     def toJson(self):
         return {"name": self.name, "source": self.source, "rarity": self.rarity}
+
+    def printItem(self):
+        priceStr = ("$" + str(self.price))
+        cols = [self.name, priceStr, self.rarity, self.source]
+
+        print("{: <46} {: <10} {: <10} {: <4}".format(*cols))
