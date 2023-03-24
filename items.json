@@ -90,6 +90,11 @@
         "rarity": "veryrare"
     },
     {
+        "name": "Amulet of Divine Protection",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
         "name": "Amulet of Health",
         "source": "5e",
         "rarity": "rare"

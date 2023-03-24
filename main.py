@@ -42,11 +42,11 @@ def createShop(quantityGenerated):
 
 def main():
 
-    quantityGenerated = [2, 5, 3, 2, 1]
-    createShop(quantityGenerated)
+    # quantityGenerated = [2, 7, 3, 2, 0]
+    # createShop(quantityGenerated)
 
-    # print("Adding New Item")
-    # addNewItem("Dune Duster", veryrare)
+    print("Adding New Item")
+    addNewItem("Amulet of Divine Protection", rare)
 
 
 if __name__ == "__main__":
