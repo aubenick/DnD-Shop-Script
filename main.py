@@ -59,7 +59,7 @@ def main():
     # quantityGenerated = [3, 8, 5, 1, 0]
     # createShop(quantityGenerated)
 
-    addNewItem("Hedgewitch's Gardening Gloves", uncommon)
+    addNewItem("Wandblade", rare)
 
 
 if __name__ == "__main__":

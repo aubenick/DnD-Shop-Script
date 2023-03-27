@@ -3292,12 +3292,12 @@
     {
         "name": "Rod of the Pact Keeper, +1, +2, +3",
         "source": "5e",
-        "rarity": "rare"
+        "rarity": "veryrare"
     },
     {
         "name": "Rod of the Pact Keeper, +1, +2, +3",
         "source": "5e",
-        "rarity": "veryrare"
+        "rarity": "rare"
     },
     {
         "name": "Rod of the Vonindod",
@@ -4283,6 +4283,11 @@
         "name": "Wand of the War Mage",
         "source": "5e",
         "rarity": "veryrare"
+    },
+    {
+        "name": "Wandblade",
+        "source": "GS",
+        "rarity": "rare"
     },
     {
         "name": "Wardancer's Spear",
