@@ -42,10 +42,10 @@ def createShop(quantityGenerated):
 
 def main():
 
-    # quantityGenerated = [2, 7, 3, 2, 0]
-    # createShop(quantityGenerated)
+    quantityGenerated = [2, 7, 3, 2, 0]
+    createShop(quantityGenerated)
 
-    addNewItem("Wandblade", rare)
+    # addNewItem("Wandblade", rare)
 
 
 if __name__ == "__main__":

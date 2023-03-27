@@ -15,7 +15,7 @@ def getItems(filePath="items.json"):
 # Return a list of items based on rarity
 
 
-def getItemsWithPrices(quantityGenerated: list[int]) -> list[Item]:
+def getItemsWithPrices(quantityGenerated: List[int]) -> List[Item]:
     items = getItems()
     rarities = ["common", "uncommon", "rare", "veryrare", "legendary"]
     output: List[Item] = []
