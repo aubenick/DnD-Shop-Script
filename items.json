@@ -835,6 +835,11 @@
         "rarity": "common"
     },
     {
+        "name": "Cloudkept Armor",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
         "name": "Coiling Grasp Tattoo",
         "source": "5e",
         "rarity": "uncommon"
