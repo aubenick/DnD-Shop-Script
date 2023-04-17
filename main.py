@@ -45,7 +45,7 @@ def main():
     # quantityGenerated = [2, 7, 3, 2, 0]
     # createShop(quantityGenerated)
 
-    addNewItem("Collar of the Crystal Veil", veryrare)
+    addNewItem("Ashen Bloom", rare)
 
 
 if __name__ == "__main__":
