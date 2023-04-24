@@ -2285,6 +2285,11 @@
         "rarity": "rare"
     },
     {
+        "name": "Magmarath Molten Blaster",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
         "name": "Mantle of Spell Resistance",
         "source": "5e",
         "rarity": "rare"
@@ -4297,17 +4302,17 @@
     {
         "name": "Wand of the War Mage",
         "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Wand of the War Mage",
+        "source": "5e",
         "rarity": "uncommon"
     },
     {
         "name": "Wand of the War Mage",
         "source": "5e",
         "rarity": "rare"
-    },
-    {
-        "name": "Wand of the War Mage",
-        "source": "5e",
-        "rarity": "veryrare"
     },
     {
         "name": "Wandblade",
