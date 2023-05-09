@@ -45,7 +45,7 @@ def main():
     # quantityGenerated = [2, 7, 3, 2, 0]
     # createShop(quantityGenerated)
 
-    addNewItem("Time Warden Armor", veryrare)
+    addNewItem("Ramp-Up Ring", veryrare)
 
 
 if __name__ == "__main__":

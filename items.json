@@ -3035,6 +3035,11 @@
         "rarity": "legendary"
     },
     {
+        "name": "Ramp-Up Ring",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
         "name": "Ravenheart's Origami Ravens",
         "source": "GS",
         "rarity": "uncommon"
