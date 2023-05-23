@@ -20,6 +20,11 @@
         "rarity": "uncommon"
     },
     {
+        "name": "Adrenal Blades",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
         "name": "Aged Goodberry Wine",
         "source": "GS",
         "rarity": "rare"
