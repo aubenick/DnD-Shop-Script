@@ -1250,6 +1250,11 @@
         "rarity": "rare"
     },
     {
+        "name": "Dragonwing Scimitars",
+        "source": "GS",
+        "rarity": "legendary"
+    },
+    {
         "name": "Dread Helm",
         "source": "5e",
         "rarity": "common"
