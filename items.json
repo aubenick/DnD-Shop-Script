@@ -580,14 +580,14 @@
         "rarity": "rare"
     },
     {
-        "name": "Bracers of Spell Reflection",
-        "source": "GS",
-        "rarity": "veryrare"
-    },
-    {
         "name": "Bracers of Defense",
         "source": "5e",
         "rarity": "rare"
+    },
+    {
+        "name": "Bracers of Spell Reflection",
+        "source": "GS",
+        "rarity": "veryrare"
     },
     {
         "name": "Brazier of Commanding Fire Elementals",
@@ -2518,6 +2518,11 @@
         "name": "Navigation Orb",
         "source": "5e",
         "rarity": "veryrare"
+    },
+    {
+        "name": "Navis Anima",
+        "source": "GS",
+        "rarity": "legendary"
     },
     {
         "name": "Necklace of Adaptation",

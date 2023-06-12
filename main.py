@@ -45,7 +45,7 @@ def main():
     # quantityGenerated = [2, 7, 3, 2, 0]
     # createShop(quantityGenerated)
 
-    addNewItem("Bracer of Spell Reflection", veryrare)
+    addNewItem("Navis Anima", legendary)
 
 
 if __name__ == "__main__":
