@@ -2085,6 +2085,11 @@
         "rarity": "rare"
     },
     {
+        "name": "Ioun Blade",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
         "name": "Ioun Stone",
         "source": "5e",
         "rarity": "rare"
