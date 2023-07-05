@@ -322,17 +322,17 @@
     {
         "name": "Barrier Tattoo",
         "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Barrier Tattoo",
+        "source": "5e",
         "rarity": "uncommon"
     },
     {
         "name": "Barrier Tattoo",
         "source": "5e",
         "rarity": "rare"
-    },
-    {
-        "name": "Barrier Tattoo",
-        "source": "5e",
-        "rarity": "veryrare"
     },
     {
         "name": "Bartender's Armistice",
@@ -457,7 +457,7 @@
     {
         "name": "Bloodwell Vial",
         "source": "5e",
-        "rarity": "veryrare"
+        "rarity": "uncommon"
     },
     {
         "name": "Bloodwell Vial",
@@ -467,7 +467,7 @@
     {
         "name": "Bloodwell Vial",
         "source": "5e",
-        "rarity": "uncommon"
+        "rarity": "veryrare"
     },
     {
         "name": "Blue Dragon Horn Shield",
@@ -937,12 +937,12 @@
     {
         "name": "Crystal Ball",
         "source": "5e",
-        "rarity": "legendary"
+        "rarity": "veryrare"
     },
     {
         "name": "Crystal Ball",
         "source": "5e",
-        "rarity": "veryrare"
+        "rarity": "legendary"
     },
     {
         "name": "Crystal Blade",
@@ -1137,12 +1137,12 @@
     {
         "name": "Dragon Vessel",
         "source": "5e",
-        "rarity": "uncommon"
+        "rarity": "rare"
     },
     {
         "name": "Dragon Vessel",
         "source": "5e",
-        "rarity": "rare"
+        "rarity": "legendary"
     },
     {
         "name": "Dragon Vessel",
@@ -1152,7 +1152,7 @@
     {
         "name": "Dragon Vessel",
         "source": "5e",
-        "rarity": "legendary"
+        "rarity": "uncommon"
     },
     {
         "name": "Dragon Wing Bow",
@@ -1162,12 +1162,7 @@
     {
         "name": "Dragon's Wrath Weapon",
         "source": "5e",
-        "rarity": "uncommon"
-    },
-    {
-        "name": "Dragon's Wrath Weapon",
-        "source": "5e",
-        "rarity": "veryrare"
+        "rarity": "legendary"
     },
     {
         "name": "Dragon's Wrath Weapon",
@@ -1177,17 +1172,17 @@
     {
         "name": "Dragon's Wrath Weapon",
         "source": "5e",
-        "rarity": "legendary"
-    },
-    {
-        "name": "Dragon-Touched Focus",
-        "source": "5e",
-        "rarity": "legendary"
-    },
-    {
-        "name": "Dragon-Touched Focus",
-        "source": "5e",
         "rarity": "veryrare"
+    },
+    {
+        "name": "Dragon's Wrath Weapon",
+        "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Dragon-Touched Focus",
+        "source": "5e",
+        "rarity": "uncommon"
     },
     {
         "name": "Dragon-Touched Focus",
@@ -1197,7 +1192,12 @@
     {
         "name": "Dragon-Touched Focus",
         "source": "5e",
-        "rarity": "uncommon"
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Dragon-Touched Focus",
+        "source": "5e",
+        "rarity": "legendary"
     },
     {
         "name": "Dragonbreath Ammunition",
@@ -1207,7 +1207,7 @@
     {
         "name": "Dragonhide Belt",
         "source": "5e",
-        "rarity": "veryrare"
+        "rarity": "uncommon"
     },
     {
         "name": "Dragonhide Belt",
@@ -1217,7 +1217,7 @@
     {
         "name": "Dragonhide Belt",
         "source": "5e",
-        "rarity": "uncommon"
+        "rarity": "veryrare"
     },
     {
         "name": "Dragonlance",
@@ -1227,7 +1227,12 @@
     {
         "name": "Dragonscale Whetstone",
         "source": "GS",
-        "rarity": "legendary"
+        "rarity": "rare"
+    },
+    {
+        "name": "Dragonscale Whetstone",
+        "source": "GS",
+        "rarity": "uncommon"
     },
     {
         "name": "Dragonscale Whetstone",
@@ -1237,12 +1242,7 @@
     {
         "name": "Dragonscale Whetstone",
         "source": "GS",
-        "rarity": "rare"
-    },
-    {
-        "name": "Dragonscale Whetstone",
-        "source": "GS",
-        "rarity": "uncommon"
+        "rarity": "legendary"
     },
     {
         "name": "Dragonstaff of Ahghairon",
@@ -1492,12 +1492,12 @@
     {
         "name": "Figurine of Wondrous Power",
         "source": "5e",
-        "rarity": "rare"
+        "rarity": "veryrare"
     },
     {
         "name": "Figurine of Wondrous Power",
         "source": "5e",
-        "rarity": "veryrare"
+        "rarity": "rare"
     },
     {
         "name": "Finder's Goggles",
@@ -2077,12 +2077,12 @@
     {
         "name": "Instrument of the Bards",
         "source": "5e",
-        "rarity": "uncommon"
+        "rarity": "rare"
     },
     {
         "name": "Instrument of the Bards",
         "source": "5e",
-        "rarity": "rare"
+        "rarity": "uncommon"
     },
     {
         "name": "Ioun Blade",
@@ -2097,12 +2097,12 @@
     {
         "name": "Ioun Stone",
         "source": "5e",
-        "rarity": "veryrare"
+        "rarity": "legendary"
     },
     {
         "name": "Ioun Stone",
         "source": "5e",
-        "rarity": "legendary"
+        "rarity": "veryrare"
     },
     {
         "name": "Iron Bands of Bilarro",
@@ -2660,6 +2660,11 @@
         "rarity": "rare"
     },
     {
+        "name": "Ouroboros Wand",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
         "name": "Outer Essence Shard",
         "source": "5e",
         "rarity": "rare"
@@ -2862,17 +2867,17 @@
     {
         "name": "Potion of Giant Strength",
         "source": "5e",
-        "rarity": "rare"
-    },
-    {
-        "name": "Potion of Giant Strength",
-        "source": "5e",
         "rarity": "uncommon"
     },
     {
         "name": "Potion of Giant Strength",
         "source": "5e",
         "rarity": "legendary"
+    },
+    {
+        "name": "Potion of Giant Strength",
+        "source": "5e",
+        "rarity": "rare"
     },
     {
         "name": "Potion of Growth",
@@ -2982,12 +2987,12 @@
     {
         "name": "Prized Pet Protector",
         "source": "GS",
-        "rarity": "uncommon"
+        "rarity": "rare"
     },
     {
         "name": "Prized Pet Protector",
         "source": "GS",
-        "rarity": "rare"
+        "rarity": "uncommon"
     },
     {
         "name": "Professor Orb",
@@ -3092,7 +3097,7 @@
     {
         "name": "Rhythm Maker's Drum",
         "source": "5e",
-        "rarity": "veryrare"
+        "rarity": "uncommon"
     },
     {
         "name": "Rhythm Maker's Drum",
@@ -3102,7 +3107,7 @@
     {
         "name": "Rhythm Maker's Drum",
         "source": "5e",
-        "rarity": "uncommon"
+        "rarity": "veryrare"
     },
     {
         "name": "Rift Sheath",
@@ -3442,17 +3447,17 @@
     {
         "name": "Scaled Ornament",
         "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Scaled Ornament",
+        "source": "5e",
         "rarity": "uncommon"
     },
     {
         "name": "Scaled Ornament",
         "source": "5e",
         "rarity": "rare"
-    },
-    {
-        "name": "Scaled Ornament",
-        "source": "5e",
-        "rarity": "veryrare"
     },
     {
         "name": "Scarab of Protection",
@@ -3492,12 +3497,12 @@
     {
         "name": "Scroll of Mapping",
         "source": "GS",
-        "rarity": "veryrare"
+        "rarity": "uncommon"
     },
     {
         "name": "Scroll of Mapping",
         "source": "GS",
-        "rarity": "uncommon"
+        "rarity": "veryrare"
     },
     {
         "name": "Scroll of Protection",
@@ -3702,12 +3707,12 @@
     {
         "name": "Spell Gem",
         "source": "5e",
-        "rarity": "uncommon"
+        "rarity": "rare"
     },
     {
         "name": "Spell Gem",
         "source": "5e",
-        "rarity": "rare"
+        "rarity": "uncommon"
     },
     {
         "name": "Spell Gem",
@@ -3767,7 +3772,7 @@
     {
         "name": "Spellwrought Tattoo",
         "source": "5e",
-        "rarity": "rare"
+        "rarity": "uncommon"
     },
     {
         "name": "Spellwrought Tattoo",
@@ -3777,7 +3782,7 @@
     {
         "name": "Spellwrought Tattoo",
         "source": "5e",
-        "rarity": "uncommon"
+        "rarity": "rare"
     },
     {
         "name": "Sphere Of Annihilation",
