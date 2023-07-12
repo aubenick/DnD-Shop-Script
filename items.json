@@ -690,6 +690,11 @@
         "rarity": "veryrare"
     },
     {
+        "name": "Cathedral Lantern",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
         "name": "Cauldron of Plenty",
         "source": "5e",
         "rarity": "rare"
