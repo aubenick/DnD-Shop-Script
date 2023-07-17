@@ -127,12 +127,12 @@
     {
         "name": "Amulet of the Devout",
         "source": "5e",
-        "rarity": "rare"
+        "rarity": "veryrare"
     },
     {
         "name": "Amulet of the Devout",
         "source": "5e",
-        "rarity": "veryrare"
+        "rarity": "rare"
     },
     {
         "name": "Amulet of the Drunkard",
@@ -265,6 +265,11 @@
         "rarity": "rare"
     },
     {
+        "name": "Axe of Hurricanes",
+        "source": "GS",
+        "rarity": "uncommon"
+    },
+    {
         "name": "Azuredge",
         "source": "5e",
         "rarity": "legendary"
@@ -322,17 +327,17 @@
     {
         "name": "Barrier Tattoo",
         "source": "5e",
-        "rarity": "veryrare"
-    },
-    {
-        "name": "Barrier Tattoo",
-        "source": "5e",
         "rarity": "uncommon"
     },
     {
         "name": "Barrier Tattoo",
         "source": "5e",
         "rarity": "rare"
+    },
+    {
+        "name": "Barrier Tattoo",
+        "source": "5e",
+        "rarity": "veryrare"
     },
     {
         "name": "Bartender's Armistice",
@@ -457,7 +462,7 @@
     {
         "name": "Bloodwell Vial",
         "source": "5e",
-        "rarity": "uncommon"
+        "rarity": "veryrare"
     },
     {
         "name": "Bloodwell Vial",
@@ -467,7 +472,7 @@
     {
         "name": "Bloodwell Vial",
         "source": "5e",
-        "rarity": "veryrare"
+        "rarity": "uncommon"
     },
     {
         "name": "Blue Dragon Horn Shield",
@@ -942,12 +947,12 @@
     {
         "name": "Crystal Ball",
         "source": "5e",
-        "rarity": "veryrare"
+        "rarity": "legendary"
     },
     {
         "name": "Crystal Ball",
         "source": "5e",
-        "rarity": "legendary"
+        "rarity": "veryrare"
     },
     {
         "name": "Crystal Blade",
@@ -1142,22 +1147,22 @@
     {
         "name": "Dragon Vessel",
         "source": "5e",
-        "rarity": "rare"
-    },
-    {
-        "name": "Dragon Vessel",
-        "source": "5e",
         "rarity": "legendary"
     },
     {
         "name": "Dragon Vessel",
         "source": "5e",
-        "rarity": "veryrare"
+        "rarity": "rare"
     },
     {
         "name": "Dragon Vessel",
         "source": "5e",
         "rarity": "uncommon"
+    },
+    {
+        "name": "Dragon Vessel",
+        "source": "5e",
+        "rarity": "veryrare"
     },
     {
         "name": "Dragon Wing Bow",
@@ -1167,12 +1172,7 @@
     {
         "name": "Dragon's Wrath Weapon",
         "source": "5e",
-        "rarity": "legendary"
-    },
-    {
-        "name": "Dragon's Wrath Weapon",
-        "source": "5e",
-        "rarity": "rare"
+        "rarity": "uncommon"
     },
     {
         "name": "Dragon's Wrath Weapon",
@@ -1182,12 +1182,12 @@
     {
         "name": "Dragon's Wrath Weapon",
         "source": "5e",
-        "rarity": "uncommon"
+        "rarity": "rare"
     },
     {
-        "name": "Dragon-Touched Focus",
+        "name": "Dragon's Wrath Weapon",
         "source": "5e",
-        "rarity": "uncommon"
+        "rarity": "legendary"
     },
     {
         "name": "Dragon-Touched Focus",
@@ -1197,12 +1197,17 @@
     {
         "name": "Dragon-Touched Focus",
         "source": "5e",
-        "rarity": "veryrare"
+        "rarity": "uncommon"
     },
     {
         "name": "Dragon-Touched Focus",
         "source": "5e",
         "rarity": "legendary"
+    },
+    {
+        "name": "Dragon-Touched Focus",
+        "source": "5e",
+        "rarity": "veryrare"
     },
     {
         "name": "Dragonbreath Ammunition",
@@ -1212,7 +1217,7 @@
     {
         "name": "Dragonhide Belt",
         "source": "5e",
-        "rarity": "uncommon"
+        "rarity": "veryrare"
     },
     {
         "name": "Dragonhide Belt",
@@ -1222,7 +1227,7 @@
     {
         "name": "Dragonhide Belt",
         "source": "5e",
-        "rarity": "veryrare"
+        "rarity": "uncommon"
     },
     {
         "name": "Dragonlance",
@@ -1232,6 +1237,11 @@
     {
         "name": "Dragonscale Whetstone",
         "source": "GS",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Dragonscale Whetstone",
+        "source": "GS",
         "rarity": "rare"
     },
     {
@@ -1243,11 +1253,6 @@
         "name": "Dragonscale Whetstone",
         "source": "GS",
         "rarity": "veryrare"
-    },
-    {
-        "name": "Dragonscale Whetstone",
-        "source": "GS",
-        "rarity": "legendary"
     },
     {
         "name": "Dragonstaff of Ahghairon",
@@ -1492,7 +1497,7 @@
     {
         "name": "Figurine of Wondrous Power",
         "source": "5e",
-        "rarity": "uncommon"
+        "rarity": "rare"
     },
     {
         "name": "Figurine of Wondrous Power",
@@ -1502,7 +1507,7 @@
     {
         "name": "Figurine of Wondrous Power",
         "source": "5e",
-        "rarity": "rare"
+        "rarity": "uncommon"
     },
     {
         "name": "Finder's Goggles",
@@ -1957,17 +1962,17 @@
     {
         "name": "Horn of Valhalla",
         "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Horn of Valhalla",
+        "source": "5e",
         "rarity": "veryrare"
     },
     {
         "name": "Horn of Valhalla",
         "source": "5e",
         "rarity": "legendary"
-    },
-    {
-        "name": "Horn of Valhalla",
-        "source": "5e",
-        "rarity": "rare"
     },
     {
         "name": "Horn of the Wild Hunt",
@@ -2072,7 +2077,7 @@
     {
         "name": "Instrument of the Bards",
         "source": "5e",
-        "rarity": "veryrare"
+        "rarity": "rare"
     },
     {
         "name": "Instrument of the Bards",
@@ -2082,7 +2087,7 @@
     {
         "name": "Instrument of the Bards",
         "source": "5e",
-        "rarity": "rare"
+        "rarity": "veryrare"
     },
     {
         "name": "Instrument of the Bards",
@@ -2097,17 +2102,17 @@
     {
         "name": "Ioun Stone",
         "source": "5e",
-        "rarity": "rare"
-    },
-    {
-        "name": "Ioun Stone",
-        "source": "5e",
         "rarity": "legendary"
     },
     {
         "name": "Ioun Stone",
         "source": "5e",
         "rarity": "veryrare"
+    },
+    {
+        "name": "Ioun Stone",
+        "source": "5e",
+        "rarity": "rare"
     },
     {
         "name": "Iron Bands of Bilarro",
@@ -2932,12 +2937,12 @@
     {
         "name": "Potion of Mind Control",
         "source": "5e",
-        "rarity": "rare"
+        "rarity": "veryrare"
     },
     {
         "name": "Potion of Mind Control",
         "source": "5e",
-        "rarity": "veryrare"
+        "rarity": "rare"
     },
     {
         "name": "Potion of Mind Reading",
@@ -3102,17 +3107,17 @@
     {
         "name": "Rhythm Maker's Drum",
         "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Rhythm Maker's Drum",
+        "source": "5e",
         "rarity": "uncommon"
     },
     {
         "name": "Rhythm Maker's Drum",
         "source": "5e",
         "rarity": "rare"
-    },
-    {
-        "name": "Rhythm Maker's Drum",
-        "source": "5e",
-        "rarity": "veryrare"
     },
     {
         "name": "Rift Sheath",
@@ -3362,12 +3367,12 @@
     {
         "name": "Rod of the Pact Keeper, +1, +2, +3",
         "source": "5e",
-        "rarity": "veryrare"
+        "rarity": "rare"
     },
     {
         "name": "Rod of the Pact Keeper, +1, +2, +3",
         "source": "5e",
-        "rarity": "rare"
+        "rarity": "veryrare"
     },
     {
         "name": "Rod of the Vonindod",
@@ -3447,17 +3452,17 @@
     {
         "name": "Scaled Ornament",
         "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Scaled Ornament",
+        "source": "5e",
         "rarity": "legendary"
     },
     {
         "name": "Scaled Ornament",
         "source": "5e",
         "rarity": "veryrare"
-    },
-    {
-        "name": "Scaled Ornament",
-        "source": "5e",
-        "rarity": "uncommon"
     },
     {
         "name": "Scaled Ornament",
@@ -3502,12 +3507,12 @@
     {
         "name": "Scroll of Mapping",
         "source": "GS",
-        "rarity": "uncommon"
+        "rarity": "veryrare"
     },
     {
         "name": "Scroll of Mapping",
         "source": "GS",
-        "rarity": "veryrare"
+        "rarity": "uncommon"
     },
     {
         "name": "Scroll of Protection",
@@ -3732,12 +3737,7 @@
     {
         "name": "Spell Scroll",
         "source": "5e",
-        "rarity": "legendary"
-    },
-    {
-        "name": "Spell Scroll",
-        "source": "5e",
-        "rarity": "veryrare"
+        "rarity": "uncommon"
     },
     {
         "name": "Spell Scroll",
@@ -3747,7 +3747,12 @@
     {
         "name": "Spell Scroll",
         "source": "5e",
-        "rarity": "uncommon"
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Spell Scroll",
+        "source": "5e",
+        "rarity": "legendary"
     },
     {
         "name": "Spellfire Bow",
@@ -3777,17 +3782,17 @@
     {
         "name": "Spellwrought Tattoo",
         "source": "5e",
+        "rarity": "rare"
+    },
+    {
+        "name": "Spellwrought Tattoo",
+        "source": "5e",
         "rarity": "uncommon"
     },
     {
         "name": "Spellwrought Tattoo",
         "source": "5e",
         "rarity": "common"
-    },
-    {
-        "name": "Spellwrought Tattoo",
-        "source": "5e",
-        "rarity": "rare"
     },
     {
         "name": "Sphere Of Annihilation",
@@ -4352,17 +4357,17 @@
     {
         "name": "Wand of the War Mage",
         "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Wand of the War Mage",
+        "source": "5e",
         "rarity": "rare"
     },
     {
         "name": "Wand of the War Mage",
         "source": "5e",
         "rarity": "uncommon"
-    },
-    {
-        "name": "Wand of the War Mage",
-        "source": "5e",
-        "rarity": "veryrare"
     },
     {
         "name": "Wandblade",
