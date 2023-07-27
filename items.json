@@ -2455,6 +2455,11 @@
         "rarity": "rare"
     },
     {
+        "name": "Molten Hammer",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
         "name": "Moodmark Paint",
         "source": "5e",
         "rarity": "common"
