@@ -1295,6 +1295,11 @@
         "rarity": "legendary"
     },
     {
+        "name": "Druidic Shape Charms",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
         "name": "Dune Duster",
         "source": "GS",
         "rarity": "veryrare"
