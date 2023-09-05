@@ -45,7 +45,7 @@ def main():
     # quantityGenerated = [2, 7, 3, 2, 0]
     # createShop(quantityGenerated)
 
-    addNewItem("Quarterstaff of the Elk", rare)
+    addNewItem("Sending Slates", rare)
 
 
 if __name__ == "__main__":

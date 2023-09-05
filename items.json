@@ -3565,6 +3565,11 @@
         "rarity": "common"
     },
     {
+        "name": "Sending Slates",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
         "name": "Sending Stones",
         "source": "5e",
         "rarity": "uncommon"
