@@ -415,6 +415,11 @@
         "rarity": "uncommon"
     },
     {
+        "name": "Black Hole",
+        "source": "GS",
+        "rarity": "legendary"
+    },
+    {
         "name": "Blackrazor",
         "source": "5e",
         "rarity": "legendary"
@@ -467,17 +472,17 @@
     {
         "name": "Bloodwell Vial",
         "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Bloodwell Vial",
+        "source": "5e",
         "rarity": "veryrare"
     },
     {
         "name": "Bloodwell Vial",
         "source": "5e",
         "rarity": "rare"
-    },
-    {
-        "name": "Bloodwell Vial",
-        "source": "5e",
-        "rarity": "uncommon"
     },
     {
         "name": "Blue Dragon Horn Shield",
