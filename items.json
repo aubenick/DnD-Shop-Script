@@ -2080,6 +2080,11 @@
         "rarity": "legendary"
     },
     {
+        "name": "Inferno Engine",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
         "name": "Infiltrator's Key",
         "source": "5e",
         "rarity": "legendary"

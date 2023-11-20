@@ -42,10 +42,9 @@ def createShop(quantityGenerated):
 
 def main():
 
-    # quantityGenerated = [2, 7, 3, 2, 0]
-    # createShop(quantityGenerated)
+    #createShop([0, 0, 7, 3, 1])
 
-    addNewItem("Cloak of Smokeand Cinder", veryrare)
+    addNewItem("Inferno Engine", veryrare)
 
 
 if __name__ == "__main__":
