@@ -3980,6 +3980,11 @@
         "rarity": "uncommon"
     },
     {
+        "name": "Staff of the Eclipse",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
         "name": "Staff of the Ivory Claw",
         "source": "5e",
         "rarity": "rare"
