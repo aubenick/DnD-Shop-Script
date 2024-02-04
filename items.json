@@ -935,6 +935,11 @@
         "rarity": "rare"
     },
     {
+        "name": "Constellation Whip",
+        "source": "GS",
+        "rarity": "veryrare"
+    },
+    {
         "name": "Contingency Band",
         "source": "GS",
         "rarity": "rare"
