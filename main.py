@@ -44,7 +44,7 @@ def main():
 
     #createShop([0, 0, 7, 3, 1])
 
-    addNewItem("Constellation Whip", veryrare)
+    addNewItem("Shield of the Eldritch Maw", veryrare)
 
 
 if __name__ == "__main__":

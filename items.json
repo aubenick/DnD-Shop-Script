@@ -1207,22 +1207,22 @@
     {
         "name": "Dragon's Wrath Weapon",
         "source": "5e",
-        "rarity": "veryrare"
-    },
-    {
-        "name": "Dragon's Wrath Weapon",
-        "source": "5e",
-        "rarity": "rare"
-    },
-    {
-        "name": "Dragon's Wrath Weapon",
-        "source": "5e",
         "rarity": "legendary"
     },
     {
         "name": "Dragon's Wrath Weapon",
         "source": "5e",
         "rarity": "uncommon"
+    },
+    {
+        "name": "Dragon's Wrath Weapon",
+        "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Dragon's Wrath Weapon",
+        "source": "5e",
+        "rarity": "rare"
     },
     {
         "name": "Dragon-Touched Focus",
@@ -3683,6 +3683,11 @@
         "name": "Shield of Missile Attraction",
         "source": "5e",
         "rarity": "rare"
+    },
+    {
+        "name": "Shield of the Eldritch Maw",
+        "source": "GS",
+        "rarity": "veryrare"
     },
     {
         "name": "Shield of the Hidden Lord",
