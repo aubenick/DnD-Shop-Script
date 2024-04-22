@@ -725,6 +725,11 @@
         "rarity": "veryrare"
     },
     {
+        "name": "Celestial Bident",
+        "source": "GS",
+        "rarity": "legendary"
+    },
+    {
         "name": "Censer of Controlling Air Elementals",
         "source": "5e",
         "rarity": "rare"
@@ -1207,11 +1212,6 @@
     {
         "name": "Dragon's Wrath Weapon",
         "source": "5e",
-        "rarity": "legendary"
-    },
-    {
-        "name": "Dragon's Wrath Weapon",
-        "source": "5e",
         "rarity": "uncommon"
     },
     {
@@ -1223,6 +1223,11 @@
         "name": "Dragon's Wrath Weapon",
         "source": "5e",
         "rarity": "rare"
+    },
+    {
+        "name": "Dragon's Wrath Weapon",
+        "source": "5e",
+        "rarity": "legendary"
     },
     {
         "name": "Dragon-Touched Focus",
