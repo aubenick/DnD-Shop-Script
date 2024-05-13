@@ -1890,6 +1890,11 @@
         "rarity": "uncommon"
     },
     {
+        "name": "Healer's Voice",
+        "source": "GS",
+        "rarity": "rare"
+    },
+    {
         "name": "Heart Weaver's Primer",
         "source": "5e",
         "rarity": "rare"
