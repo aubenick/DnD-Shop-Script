@@ -44,7 +44,7 @@ def main():
 
     #createShop([0, 0, 7, 3, 1])
 
-    addNewItem("Healer's Voice", rare)
+    addNewItem("Trickster's Quiver", rare)
 
 
 if __name__ == "__main__":

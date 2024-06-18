@@ -1187,6 +1187,11 @@
     {
         "name": "Dragon Vessel",
         "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Dragon Vessel",
+        "source": "5e",
         "rarity": "uncommon"
     },
     {
@@ -1198,11 +1203,6 @@
         "name": "Dragon Vessel",
         "source": "5e",
         "rarity": "rare"
-    },
-    {
-        "name": "Dragon Vessel",
-        "source": "5e",
-        "rarity": "legendary"
     },
     {
         "name": "Dragon Wing Bow",
@@ -4263,6 +4263,11 @@
         "name": "Topaz Annihilator",
         "source": "5e",
         "rarity": "legendary"
+    },
+    {
+        "name": "Trickster's Quiver",
+        "source": "GS",
+        "rarity": "rare"
     },
     {
         "name": "Trident of Fish Command",
