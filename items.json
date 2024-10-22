@@ -220,6 +220,11 @@
         "rarity": "rare"
     },
     {
+        "name": "Armor of the Platinum Lord",
+        "source": "GS",
+        "rarity": "legendary"
+    },
+    {
         "name": "Armor, +2",
         "source": "5e",
         "rarity": "rare"
@@ -1187,22 +1192,22 @@
     {
         "name": "Dragon Vessel",
         "source": "5e",
-        "rarity": "legendary"
-    },
-    {
-        "name": "Dragon Vessel",
-        "source": "5e",
-        "rarity": "uncommon"
-    },
-    {
-        "name": "Dragon Vessel",
-        "source": "5e",
         "rarity": "veryrare"
     },
     {
         "name": "Dragon Vessel",
         "source": "5e",
         "rarity": "rare"
+    },
+    {
+        "name": "Dragon Vessel",
+        "source": "5e",
+        "rarity": "legendary"
+    },
+    {
+        "name": "Dragon Vessel",
+        "source": "5e",
+        "rarity": "uncommon"
     },
     {
         "name": "Dragon Wing Bow",
