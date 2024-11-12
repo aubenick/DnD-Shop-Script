@@ -337,17 +337,17 @@
     {
         "name": "Barrier Tattoo",
         "source": "5e",
+        "rarity": "uncommon"
+    },
+    {
+        "name": "Barrier Tattoo",
+        "source": "5e",
         "rarity": "veryrare"
     },
     {
         "name": "Barrier Tattoo",
         "source": "5e",
         "rarity": "rare"
-    },
-    {
-        "name": "Barrier Tattoo",
-        "source": "5e",
-        "rarity": "uncommon"
     },
     {
         "name": "Bartender's Armistice",
@@ -2423,6 +2423,11 @@
         "name": "Mark of the Everglacier Monarch",
         "source": "GS",
         "rarity": "legendary"
+    },
+    {
+        "name": "Marksman's Cloak",
+        "source": "GS",
+        "rarity": "rare"
     },
     {
         "name": "Mask of the Beast",
