@@ -337,17 +337,17 @@
     {
         "name": "Barrier Tattoo",
         "source": "5e",
-        "rarity": "uncommon"
-    },
-    {
-        "name": "Barrier Tattoo",
-        "source": "5e",
         "rarity": "veryrare"
     },
     {
         "name": "Barrier Tattoo",
         "source": "5e",
         "rarity": "rare"
+    },
+    {
+        "name": "Barrier Tattoo",
+        "source": "5e",
+        "rarity": "uncommon"
     },
     {
         "name": "Bartender's Armistice",
@@ -2027,17 +2027,17 @@
     {
         "name": "Horn of Valhalla",
         "source": "5e",
+        "rarity": "veryrare"
+    },
+    {
+        "name": "Horn of Valhalla",
+        "source": "5e",
         "rarity": "legendary"
     },
     {
         "name": "Horn of Valhalla",
         "source": "5e",
         "rarity": "rare"
-    },
-    {
-        "name": "Horn of Valhalla",
-        "source": "5e",
-        "rarity": "veryrare"
     },
     {
         "name": "Horn of the Wild Hunt",
@@ -4488,6 +4488,11 @@
         "name": "Wandblade",
         "source": "GS",
         "rarity": "rare"
+    },
+    {
+        "name": "War Mage's Staff",
+        "source": "GS",
+        "rarity": "veryrare"
     },
     {
         "name": "Wardancer's Spear",
